@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @suule95
-- 👀 I’m interested in collecting data from anywhere, cleaning them to fit into machine learning models to project future trends and increasing productivity by using the insights from the data.
-- 🌱 I’m currently learning Machine Learning Models, Statistics and data analyst skills.
-- 💞️ I’m looking to collaborate on projects that require data collection, data pre-processing and making business decisions with someone who has a domain knowledge in their field.
+- 👋 Hi, I’m Suu Le Min @suule95
+- I love numbers, facts, evidences and people.
+- Working on critical thinking for analyzing all kinds of data, be it retail business to healthcare data, using SQL, Python and Tableau.
+- Aim to make great impact on communities using data and great analysis skills.
 - 📫 How to reach me: msuule@gmail.com
 
 <!---
